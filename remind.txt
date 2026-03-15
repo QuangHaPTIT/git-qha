@@ -1,3 +1,5 @@
 Bước 1: Chạy câu lệnh npm run dev
 
 Bước 2: Chạy build backend bằng mysql (connect db)
+
+Bước 3: Chạy npm run build
